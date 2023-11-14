@@ -47,4 +47,4 @@ cdk bootstrap aws://<REPLACE_WITH_YOUR_AWS_ACCT_NUMBER>/<REPLACE_WITH_AWS_REGION
 
 # Jump to workshop one:
 
-You're all set to start with workshop one, click here -> [workshop_one](https://gitlab.aws.dev/hukaiyin/webxrhackathon_2023_workshop/-/tree/workshop_one?ref_type=heads) or select "workshop_one" from this repository's branches to access the README.
+You're all set to start with workshop one, click here -> [workshop_one](https://github.com/felixtrz/webxrhackathon_2023_workshop/tree/workshop_one) or select "workshop_one" from this repository's branches to access the README.
