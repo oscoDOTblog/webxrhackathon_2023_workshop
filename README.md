@@ -276,7 +276,7 @@ This guide walks through preparing a production build and pushing the applicatio
 
 ## Step 1. Preparing for production
 
-To a production build, run this under web folder
+To a production build, run this under `web/` folder
 
 ```
 npm run build
